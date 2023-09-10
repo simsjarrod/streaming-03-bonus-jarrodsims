@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2023-09-10 at 06:30 PM
+ Operating System: nt Windows 10
+ System Architecture: 64bit
+ Number of CPUs: 8
+ Machine Type: AMD64
+ Python Version: 3.11.5
+ Python Build Date and Compiler: tags/v3.11.5:cce6ba9 with Aug 24 2023 14:38:34
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         C:\Users\jarro\OneDrive\Documents\44671_STREAMING_DATA\streaming-03-bonus-yourname\.venv\Scripts\python.exe
+ Path to virtual environment: C:\Users\jarro\OneDrive\Documents\44671_STREAMING_DATA\streaming-03-bonus-yourname\.venv
+ Current Working Directory:   C:\Users\jarro\OneDrive\Documents\44671_STREAMING_DATA\streaming-03-bonus-yourname
+ Path to source directory:    C:\Users\jarro\OneDrive\Documents\44671_STREAMING_DATA\streaming-03-bonus-yourname
+ Path to script file:         C:\Users\jarro\OneDrive\Documents\44671_STREAMING_DATA\streaming-03-bonus-yourname\util_about.py
+ User's Home Directory:       C:\Users\jarro
+ Terminal Environment:        VS Code
+ Terminal Type:               cmd.exe
+ Preferred command:           python
+ Is python available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================
